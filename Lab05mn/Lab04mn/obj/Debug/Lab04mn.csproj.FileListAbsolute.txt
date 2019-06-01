@@ -1,0 +1,21 @@
+C:\Users\Newman\AppData\Local\Temporary Projects\Lab04mn\bin\Debug\Lab04mn.exe.config
+C:\Users\Newman\AppData\Local\Temporary Projects\Lab04mn\bin\Debug\Lab04mn.exe
+C:\Users\Newman\AppData\Local\Temporary Projects\Lab04mn\bin\Debug\Lab04mn.pdb
+C:\Users\Newman\AppData\Local\Temporary Projects\Lab04mn\obj\Debug\Lab04mn.csprojResolveAssemblyReference.cache
+C:\Users\Newman\AppData\Local\Temporary Projects\Lab04mn\obj\Debug\Lab04mn.Form1.resources
+C:\Users\Newman\AppData\Local\Temporary Projects\Lab04mn\obj\Debug\Lab04mn.Properties.Resources.resources
+C:\Users\Newman\AppData\Local\Temporary Projects\Lab04mn\obj\Debug\Lab04mn.csproj.GenerateResource.Cache
+C:\Users\Newman\AppData\Local\Temporary Projects\Lab04mn\obj\Debug\Lab04mn.exe
+C:\Users\Newman\AppData\Local\Temporary Projects\Lab04mn\obj\Debug\Lab04mn.pdb
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\Lab04mn\Lab04mn\bin\Debug\Lab04mn.exe.config
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\Lab04mn\Lab04mn\obj\Debug\Lab04mn.exe
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\Lab04mn\Lab04mn\obj\Debug\Lab04mn.pdb
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\Lab05mn\Lab04mn\bin\Debug\Lab04mn.exe.config
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\Lab05mn\Lab04mn\obj\Debug\Lab04mn.exe
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\Lab05mn\Lab04mn\obj\Debug\Lab04mn.pdb
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\Lab05mn\Lab04mn\bin\Debug\Lab04mn.exe
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\Lab05mn\Lab04mn\bin\Debug\Lab04mn.pdb
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\Lab05mn\Lab04mn\obj\Debug\Lab04mn.csprojResolveAssemblyReference.cache
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\Lab05mn\Lab04mn\obj\Debug\Lab04mn.Form1.resources
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\Lab05mn\Lab04mn\obj\Debug\Lab04mn.Properties.Resources.resources
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\Lab05mn\Lab04mn\obj\Debug\Lab04mn.csproj.GenerateResource.Cache

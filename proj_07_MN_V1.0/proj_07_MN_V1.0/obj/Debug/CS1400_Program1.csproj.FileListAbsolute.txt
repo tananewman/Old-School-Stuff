@@ -1,0 +1,5 @@
+C:\Users\Newman\AppData\Local\Temporary Projects\CS1400_Program1\bin\Debug\CS1400_Program1.exe
+C:\Users\Newman\AppData\Local\Temporary Projects\CS1400_Program1\obj\Debug\CS1400_Program1.csprojResolveAssemblyReference.cache
+C:\Users\Newman\AppData\Local\Temporary Projects\CS1400_Program1\obj\Debug\CS1400_Program1.exe
+C:\Users\Newman\AppData\Local\Temporary Projects\CS1400_Program1\obj\Debug\CS1400_Program1.pdb
+C:\Users\Newman\AppData\Local\Temporary Projects\CS1400_Program1\bin\Debug\CS1400_Program1.pdb

@@ -1,0 +1,4 @@
+C:\Users\Newman\AppData\Local\Temporary Projects\CS1400_Program3\bin\Debug\CS1400_Program3.exe
+C:\Users\Newman\AppData\Local\Temporary Projects\CS1400_Program3\bin\Debug\CS1400_Program3.pdb
+C:\Users\Newman\AppData\Local\Temporary Projects\CS1400_Program3\obj\Debug\CS1400_Program3.exe
+C:\Users\Newman\AppData\Local\Temporary Projects\CS1400_Program3\obj\Debug\CS1400_Program3.pdb

@@ -1,0 +1,9 @@
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\proj_12_MN_V1.0\proj_12_MN_V1.0\bin\Debug\proj_12_MN_V1.0.exe.config
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\proj_12_MN_V1.0\proj_12_MN_V1.0\bin\Debug\proj_12_MN_V1.0.exe
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\proj_12_MN_V1.0\proj_12_MN_V1.0\obj\Debug\proj_12_MN_V1.0.csprojResolveAssemblyReference.cache
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\proj_12_MN_V1.0\proj_12_MN_V1.0\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\proj_12_MN_V1.0\proj_12_MN_V1.0\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\proj_12_MN_V1.0\proj_12_MN_V1.0\obj\Debug\proj_12_MN_V1.0.csproj.GenerateResource.Cache
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\proj_12_MN_V1.0\proj_12_MN_V1.0\obj\Debug\proj_12_MN_V1.0.exe
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\proj_12_MN_V1.0\proj_12_MN_V1.0\obj\Debug\proj_12_MN_V1.0.pdb
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\proj_12_MN_V1.0\proj_12_MN_V1.0\bin\Debug\proj_12_MN_V1.0.pdb

@@ -1,0 +1,6 @@
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\Red_Fern_C_SHARP\Red_Fern_C_SHARP\bin\Debug\Red_Fern_C_SHARP.exe.config
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\Red_Fern_C_SHARP\Red_Fern_C_SHARP\bin\Debug\Red_Fern_C_SHARP.exe
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\Red_Fern_C_SHARP\Red_Fern_C_SHARP\bin\Debug\Red_Fern_C_SHARP.pdb
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\Red_Fern_C_SHARP\Red_Fern_C_SHARP\obj\Debug\Red_Fern_C_SHARP.csprojResolveAssemblyReference.cache
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\Red_Fern_C_SHARP\Red_Fern_C_SHARP\obj\Debug\Red_Fern_C_SHARP.exe
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\Red_Fern_C_SHARP\Red_Fern_C_SHARP\obj\Debug\Red_Fern_C_SHARP.pdb

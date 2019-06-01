@@ -1,0 +1,5 @@
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\proj_09_MN_V1.0\proj_09_MN_V1.0\bin\Debug\proj_09_MN_V1.0.exe
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\proj_09_MN_V1.0\proj_09_MN_V1.0\bin\Debug\proj_09_MN_V1.0.pdb
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\proj_09_MN_V1.0\proj_09_MN_V1.0\obj\Debug\proj_09_MN_V1.0.csprojResolveAssemblyReference.cache
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\proj_09_MN_V1.0\proj_09_MN_V1.0\obj\Debug\proj_09_MN_V1.0.exe
+C:\Users\Newman\Documents\Visual Studio 2013\Projects\proj_09_MN_V1.0\proj_09_MN_V1.0\obj\Debug\proj_09_MN_V1.0.pdb
